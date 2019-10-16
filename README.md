@@ -19,7 +19,7 @@ The selected data are as follows:
     PplDiam
     EH_gd_x
     EH_gd_y
-    EH_gd_z
+    EH_gd_z.
 
 The WAME2f.m includes necessary comments required to understand each part of the program.
 Note: The codes works for a video-based head-mounted eye tracker and it is required to be modified for other models or types of eye trackers.
