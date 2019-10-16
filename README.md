@@ -1,4 +1,4 @@
-# ocularbiofeedback
+# Ocular biofeedback
 Here are the MATLAB codes to apply microbreaks to impede fatigue using a biofeedback system based on eye tracking in connection with the following paper:
 Marandi RZ, Madeleine P, Omland Ø, Vuillerme N, Samani A. An oculometrics-based biofeedback system to impede fatigue development during computer work: A proof-of-concept study. PloS one. 2019;14(5).
 
