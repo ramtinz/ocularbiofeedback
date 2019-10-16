@@ -7,7 +7,7 @@ The files are described as follows:
 WAME2f.m and WAME2f.fig are the MATLAB files made using GUIDE v2.5 in MATLAB to make graphical user interface.
 ppl_fltr.mat is the digital filter used in the pre-processing of pupil data.
 Mdl_EnsTree.mat is a pre-trained classification model used to detect fatigue based on eye movements and pupillary responses.
-ET_data_streaming is to test the streaming of the data from the computer running the eye-tracker's software (Eyetrac7).
+ET_data_streaming.m is to test the streaming of the data from the computer running the eye-tracker's software (Eyetrac7) to a computer that receives the data.
 ET_RTcom directory contains the m-files provided by the manufacturer (Applied Science Laboratories, Bedford, MA, USA) required to stream the data between the eye-tracker's computer (as host) and a second computer (as receiver). 
 Day1_pnt, Day2_pnt, and Day3_pnt are respectively the data of the predefined randomized points required to execute the pattern generation of the computer task explained in the paper.
 
